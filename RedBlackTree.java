@@ -2,6 +2,7 @@
 // Name: Aristidis Giannopoulos
 // Email: agiannopoulo@wisc.edu
 // Team: NC
+// Role: Data Wrangler
 // TA: Daniel Finer
 // Lecturer: Gary Dahl
 // Notes to Grader: NONE
